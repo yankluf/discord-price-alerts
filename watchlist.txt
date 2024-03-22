@@ -1,0 +1,5 @@
+BTC
+ETH
+SOL
+LTC
+NEXO
